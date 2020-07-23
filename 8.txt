@@ -1,0 +1,9 @@
+
+a='t'
+a=10
+print(a)
+
+If one data type value is assigned to ‘a’ variable and then a different data type value is assigned to ‘a’ again. Will it change the value. If Yes then Why?
+
+Answer: Value of a prints as 10 as it shows the last performed operation before print
+
